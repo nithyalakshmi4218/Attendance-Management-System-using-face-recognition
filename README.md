@@ -18,7 +18,7 @@ MySQL
 Pillow
 Installation
 1. Clone the Repository
-git clone https://github.com/SHREEPATI-1503/Attendance-Management-System-using-Face-Recognition.git
+git clone https://github.com/nithyalakshmi4218/Attendance-Management-System-using-face-recognition.git
 cd attendance-management-system
 2. Install Required Packages
 Ensure Python is installed on your system, then install the necessary dependencies:
