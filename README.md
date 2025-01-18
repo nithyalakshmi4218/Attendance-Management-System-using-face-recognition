@@ -34,7 +34,7 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 <img src="Screenshot 3.png">
 
 ### While filling automatic attendance
-<img src="Screenshot 2.png">
+<img src="Screenshot 4.png">
 
 ### Manually attendance filling UI
 <img src="Screenshot 2.png">
