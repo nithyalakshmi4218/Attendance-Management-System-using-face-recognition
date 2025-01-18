@@ -1,8 +1,6 @@
 # Face-Recognition-Attendance-Management-System
 Attendance Management System based on Face Recognition using Python  and OpenCv  
 
-### Sourcerer
-<img src="https://avatars.githubusercontent.com/u/84435079?v=4" height="50px" width="50px" alt=""/>
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
@@ -27,7 +25,19 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 - You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
 - `Manually Fill Attendance` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
 
+### Screenshots
 
+### Basic UI
+<img src="https://github.com/nithyalakshmi4218/Attendance-Management-System-using-face-recognition/main/Screenshot 1.png">
+
+### When it Recognises me
+<img src="https://github.com/nithyalakshmi4218/Attendance-Management-System-using-face-recognition/main/Screenshot 3.png">
+
+### While filling automatic attendance
+<img src="https://github.com/nithyalakshmi4218/Attendance-Management-System-using-face-recognition/main/Screenshot 2.png">
+
+### Manually attendance filling UI
+<img src="https://github.com/nithyalakshmi4218/Attendance-Management-System-using-face-recognition/main/Screenshot 3.png">
 
 ### Notes
 - It will require high processing power(I have 8 GB RAM)
